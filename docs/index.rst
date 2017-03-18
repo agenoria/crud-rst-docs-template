@@ -6,7 +6,7 @@ This is just a test
 
 .. toctree::
    :caption: Table of Contents
-   :maxdepth: 1
+   :maxdepth: 2
 
    quick_start
    overview
