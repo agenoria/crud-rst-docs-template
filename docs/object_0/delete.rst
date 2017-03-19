@@ -1,5 +1,5 @@
 Delete Object 0
-^^^^^^^^^^^^^^^
+---------------
 
 .. code-block:: python
 
