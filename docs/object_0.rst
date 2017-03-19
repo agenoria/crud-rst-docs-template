@@ -12,21 +12,6 @@ Box Creation:
 
 .. include:: object_0/creation.rst
 
-Creation with a Fox
-^^^^^^^^^^^^^^^^^^^
-
-Fox
-
-Creation in a House
--------------------
-
-House
-
-Creation with a Mouse
-^^^^^^^^^^^^^^^^^^^^^
-
-Mouse
-
 Details on creating object 0 here.
 
 Read
