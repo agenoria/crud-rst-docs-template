@@ -5,6 +5,26 @@ Object 1
 Create
 ======
 
+Creation in a Box
+-----------------
+
+Box
+
+Creation with a Fox
+^^^^^^^^^^^^^^^^^^^
+
+Fox
+
+Creation in a House
+-------------------
+
+House
+
+Creation with a Mouse
+^^^^^^^^^^^^^^^^^^^^^
+
+Mouse
+
 Details on creating object 1 here.
 
 Read

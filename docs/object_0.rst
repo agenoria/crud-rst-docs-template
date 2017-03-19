@@ -5,6 +5,26 @@ Object 0
 Create
 ======
 
+Creation in a Box
+-----------------
+
+Box
+
+Creation with a Fox
+^^^^^^^^^^^^^^^^^^^
+
+Fox
+
+Creation in a House
+-------------------
+
+House
+
+Creation with a Mouse
+^^^^^^^^^^^^^^^^^^^^^
+
+Mouse
+
 Details on creating object 0 here.
 
 Read
