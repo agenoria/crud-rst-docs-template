@@ -5,39 +5,19 @@ Object 1
 Create
 ======
 
-Creation in a Box
------------------
-
-Box
-
-Creation with a Fox
-^^^^^^^^^^^^^^^^^^^
-
-Fox
-
-Creation in a House
--------------------
-
-House
-
-Creation with a Mouse
-^^^^^^^^^^^^^^^^^^^^^
-
-Mouse
-
-Details on creating object 1 here.
+.. include:: object_1/create.rst
 
 Read
 ====
 
-Details on reading object 1 here.
+.. include:: object_1/read.rst
 
 Update
 ======
 
-Details on updating object 1 here.
+.. include:: object_1/update.rst
 
 Delete
 ======
 
-Details on deleting object 1 here.
+.. include:: object_1/delete.rst

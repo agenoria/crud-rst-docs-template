@@ -5,19 +5,19 @@ Object 2
 Create
 ======
 
-Details on creating object 2 here.
+.. include:: object_2/create.rst
 
 Read
 ====
 
-Details on reading object 2 here.
+.. include:: object_2/read.rst
 
 Update
 ======
 
-Details on updating object 2 here.
+.. include:: object_2/update.rst
 
 Delete
 ======
 
-Details on deleting object 2 here.
+.. include:: object_2/delete.rst
