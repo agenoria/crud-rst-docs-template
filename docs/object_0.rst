@@ -8,7 +8,9 @@ Create
 Creation in a Box
 -----------------
 
-Box
+Box Creation:
+
+.. include:: object_0/creation.rst
 
 Creation with a Fox
 ^^^^^^^^^^^^^^^^^^^
