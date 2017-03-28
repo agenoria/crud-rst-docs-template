@@ -14,6 +14,8 @@ This is just a test
    object_1
    object_2
 
+.. hint:: Test hint
+
 .. note:: Testing one, two, three
 
 .. warning:: Testing one, two, three
